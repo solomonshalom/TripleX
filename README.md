@@ -1,4 +1,8 @@
-# TripleX
+# Triple-X
+
+A simple to play, open-source C++ game built as my very first project back on Mid-2020 and was initially built as a project to learn UE4 (The good'ol days 😚). 
+
+# Original ReadMe File
 Hello, This is an open-source project that I have created using visual studio code and c++. This is an simple terminal game based in c++, you 
 can edit this code and make it your own. its a very simple game that you and your friends can play. The game is played using numbers in your keyboard, 
 you start your game in an converstation between the head of the FBI and special secret hacker, after the conversation the game shows you on how to play
